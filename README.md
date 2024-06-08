@@ -70,9 +70,9 @@ Las animaciones pueden mejorar significativamente la experiencia de usuario cuan
 
 ### Prácticas
 Durante la asignatura de Diseño de Interfaces de Usuario, se llevaron a cabo diversas prácticas que permitieron aplicar de manera práctica los conceptos aprendidos en clase. A continuación, se resumen algunas de las prácticas más destacables:
-1. **Investigación Inicial y Definición del Proyecto:**
+**1. Investigación Inicial y Definición del Proyecto:**
 Se definió un proyecto de diseño de interfaz, identificando el problema a resolver y estableciendo los objetivos del diseño. Este proceso incluyó la creación de personas y escenarios de uso para guiar el diseño centrado en el usuario.
-2. **Prototipado y Evaluación:**
+**2. Prototipado y Evaluación:**
 Se desarrollaron prototipos de baja y alta fidelidad utilizando herramientas como Figma y Sketch. Estos prototipos fueron evaluados mediante pruebas de usabilidad con usuarios reales, lo que permitió iterar y mejorar el diseño con base en el feedback recibido.
 3.	**Diseño Centrado en el Usuario:**
 Se aplicaron metodologías de diseño centrado en el usuario (DCU), incluyendo entrevistas, encuestas y análisis de tareas. Estas metodologías ayudaron a comprender mejor las necesidades y expectativas de los usuarios, garantizando que el diseño final fuera intuitivo y accesible.

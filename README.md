@@ -123,23 +123,31 @@ Además, como parte del proceso de evaluación utilizando [Google Chrome DevTool
 
 ### 3.	Experiencia de Usuario (UX)
 o	Creación de personas y escenarios de uso específicos para CIBM.
+
 o Preguntas como: ¿Quién es el usuario de esas páginas? ¿qué buscan/necesitan? ¿Qué puntos fuertes puedes destacar desde el punto de vista del factor humano?¿Se ha aplicado bien el diseño para mejorar la experiencia de usuario?
+
 o	Análisis de la accesibilidad de la web del CIBM.
+
 o	Resultados del estudio de accesibilidad y recomendaciones.
 
 ### 4.	Usabilidad
 o	Evaluación de la usabilidad de la web del CIBM mediante pruebas y cuestionarios.
+
 o	Análisis de los resultados y sugerencias de mejora.
 
 ### 5.	Comparativa con el Instituto de Biomedicina de Sevilla (IBiS)
 o	Comparativa A/B testing entre las webs de CIBM e IBiS con personas ficticias (p4).
+
 o	Puntos fuertes y débiles de cada web en términos de diseño, usabilidad y UX (SUS).
+
 o	Conclusiones derivadas del análisis comparativo.
 
 ### 6.	Mi propuesta + mockup
 
 ### 7.	Autoevaluación y Conclusiones
 o	Reflexión sobre la aplicación de técnicas y metodologías aprendidas durante las prácticas.
+
 o	Análisis de lo que se ha aplicado en este estudio y lo que podría haberse mejorado.
+
 o	Conclusión general del trabajo realizado y aprendizajes adquiridos.
 

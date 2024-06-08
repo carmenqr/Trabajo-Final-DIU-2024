@@ -11,7 +11,7 @@ A lo largo de estas actividades, se han aplicado y profundizado los principios e
 
 El siguiente informe está estructurado para proporcionar una visión integral de mi evolución y habilidades en UI/UX, demostrando una comprensión profunda de los conceptos y técnicas fundamentales en la creación de interfaces de usuario efectivas, accesibles y atractivas.
 
-### Actividad 1: Análisis Etnográfico
+### [Actividad 1: Análisis Etnográfico](parte1/Etnografía.pdf)
 El análisis etnográfico es una técnica fundamental en UX para comprender el comportamiento de los usuarios en su entorno natural. En esta actividad, se observó a una mujer de mediana edad utilizando un sistema de autopago en un hipermercado. La observación se llevó a cabo de manera casual y directa, lo que permitió identificar varios problemas críticos de usabilidad.
 
 #### Observaciones y resultados:
@@ -23,7 +23,7 @@ El análisis etnográfico es una técnica fundamental en UX para comprender el c
 #### Conclusiones:
 Este ejercicio destacó la importancia de diseñar interfaces intuitivas y con instrucciones claras para evitar la dependencia del usuario en la intervención de terceros. También se subrayó la necesidad de pruebas de usabilidad con usuarios reales para identificar y corregir estos problemas antes del lanzamiento.
 
-### Actividad 2: Evaluación del Diseño de una Web
+### [Actividad 2: Evaluación del Diseño de una Web](parte1/EvaluacionDiseñoWeb.pdf)
 La evaluación del diseño de la web "Galería Granada Capital" se realizó utilizando una checklist de elementos clave en UX y diseño visual. Esta evaluación permitió identificar áreas de mejora y comparar el sitio con la competencia.
 
 #### Observaciones y resultados:
@@ -35,7 +35,7 @@ La evaluación del diseño de la web "Galería Granada Capital" se realizó util
 #### Conclusiones: 
 La evaluación evidenció la necesidad de mejoras en la navegación y el wayfinding para facilitar una mejor experiencia de usuario. La incorporación de una búsqueda y una sección "About Us" sería beneficiosa. La accesibilidad debe ser una prioridad, asegurando que todos los usuarios puedan acceder y usar la página sin dificultades.
 
-### Actividad 3: Análisis de Accesibilidad
+### [Actividad 3: Análisis de Accesibilidad](parte1/Accesibilidad.pdf)
 Se realizó un análisis exhaustivo de la accesibilidad de la web del Ayuntamiento de Armilla utilizando diversas herramientas automáticas y simuladores de discapacidad.
 
 #### Observaciones y resultados:
@@ -45,7 +45,7 @@ Se realizó un análisis exhaustivo de la accesibilidad de la web del Ayuntamien
 #### Conclusiones: 
 La accesibilidad web es crucial para garantizar que todas las personas, independientemente de sus capacidades, puedan usar la web de manera efectiva. Las instituciones públicas deben cumplir con las normativas de accesibilidad para ser inclusivas. Este ejercicio resaltó la importancia de realizar pruebas con simuladores y herramientas de verificación automática para identificar y corregir problemas de accesibilidad.
 
-### Actividad 4: Moodboard
+### [Actividad 4: Moodboard](parte1/Moodboard.pdf)
 El moodboard es una herramienta visual que ayuda a definir la identidad y estilo de un sitio web. En esta actividad, se creó un moodboard para una web inventada, incluyendo paletas de colores, tipografías, logotipos, slogans y fotos inspiradoras.
 
 #### Observaciones y resultados:
@@ -57,7 +57,7 @@ El moodboard es una herramienta visual que ayuda a definir la identidad y estilo
 #### Conclusiones: 
 El moodboard es esencial para asegurar que todos los elementos visuales de la web estén alineados y coherentes con la identidad de la marca. Este ejercicio destacó la importancia de la estética y la identidad visual en la creación de una experiencia de usuario atractiva y memorable.
 
-### Actividad 5: Creación de una Web Creativa
+### [Actividad 5: Creación de una Web Creativa](parte1/WebCreativa.pdf)
 Se diseñó una animación en Figma utilizando el tipo de animación slider para una supuesta web de joyería.
 
 #### Observaciones y resultados:

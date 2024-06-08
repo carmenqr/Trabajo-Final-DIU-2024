@@ -122,6 +122,12 @@ La navegación y la usabilidad del sitio se mantienen coherentes en todos los di
 Además, como parte del proceso de evaluación utilizando [Google Chrome DevTools](https://developer.chrome.com/docs/devtools?hl=es-419), se han generado capturas de pantalla que muestran cómo se ve la pantalla de inicio del sitio web del CIBM en diferentes dispositivos. Estas capturas proporcionan una representación visual de la adaptabilidad efectiva del diseño en una variedad de tamaños de pantalla y dispositivos. Las capturas se encuentran disponibles en la carpeta [AdaptacionDispositivos](parte2/adaptacionDispositivos/), lo que brinda una referencia visual adicional para respaldar los hallazgos del análisis de adaptabilidad del sitio web del CIBM.
 
 ### 3.	Experiencia de Usuario (UX)
+En el proceso de análisis de la experiencia de usuario (UX) del sitio web del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/), es fundamental considerar a los usuarios potenciales que interactuarán con la plataforma. Dos de estos usuarios representativos son [Laura García](parte2/Persona1.png) y [Carlos Martínez](parte2/Persona2.png).
+
+[Laura García](parte2/Persona1.png), profesora de secundaria, busca recursos educativos en el CIBM para enriquecer sus clases. Su interés radica en encontrar información relevante y actualizada que pueda utilizar para despertar la curiosidad científica de sus alumnos y mejorar su comprensión de la biomedicina. Desde el punto de vista del factor humano, Laura destaca por su compromiso con la educación y su deseo de proporcionar una experiencia de aprendizaje significativa para sus estudiantes.
+
+Por otro lado, [Carlos Martínez](parte2/Persona2.png), ingeniero informático, busca inspiración tecnológica en la investigación biomédica del CIBM. Su objetivo es explorar posibles aplicaciones tecnológicas en el campo de la salud y la biomedicina, utilizando la investigación del CIBM como fuente de ideas e innovaciones. Carlos se destaca por su pasión por la innovación y su capacidad para buscar soluciones tecnológicas avanzadas.
+
 o	Creación de personas y escenarios de uso específicos para CIBM.
 
 o Preguntas como: ¿Quién es el usuario de esas páginas? ¿qué buscan/necesitan? ¿Qué puntos fuertes puedes destacar desde el punto de vista del factor humano?¿Se ha aplicado bien el diseño para mejorar la experiencia de usuario?

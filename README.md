@@ -156,9 +156,28 @@ En resumen, aunque el CIBM ha avanzado significativamente en la accesibilidad de
 ### 4.	Usabilidad
 La usabilidad es un aspecto crucial en el diseño y funcionamiento de cualquier sitio web, ya que determina la facilidad con la que los usuarios pueden interactuar con la plataforma y alcanzar sus objetivos. En la evaluación actual del sitio web del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/), se ha llevado a cabo una evaluación exhaustiva mediante un [cuestionario de usabilidad](parte2/Usabilidad.pdf).
 
-El cuestionario abarca diversos aspectos clave de la usabilidad, como la facilidad de navegación, la claridad de la información presentada, la accesibilidad de las funcionalidades y la eficiencia con la que los usuarios pueden completar tareas específicas. Este enfoque permite identificar puntos fuertes y áreas que requieren mejoras desde una perspectiva profesional y fundamentada.
+La[evaluacion de usabilidad](parte2/Usabilidad.pdf) del sitio web del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/) revela una serie de puntos fuertes y áreas de mejora que impactan en la experiencia general del usuario. A continuación, se presenta un resumen de los principales hallazgos y sugerencias de mejora:
 
-o	Análisis de los resultados y sugerencias de mejora.
+**Puntos Fuertes:**
+- **Features y Funcionalidades:** Las características y funcionalidades del sitio web satisfacen en su mayoría los objetivos y metas comunes del usuario.
+- **Call to Actions:** Las llamadas a la acción están claras, bien etiquetadas y parecen ser clicables.
+- **Homepage / Página de Inicio:** Proporciona una visión clara y una descripción general del contenido, características y funcionalidades disponibles.
+- **Navegación:** El esquema de navegación es fácil de encontrar, intuitivo y consistente.
+- **Links y Navegación:** Los enlaces son claros, descriptivos y bien etiquetados.
+- **Feedback y Control:** Se proporciona retroalimentación oportuna y adecuada después de una acción exitosa o fallida.
+- **Forms:** Los formularios complejos están divididos en pasos y secciones fácilmente comprendidas.
+- **Errores:** Los errores son claros, fácilmente identificables y aparecen en la ubicación apropiada.
+
+**Áreas de Mejora:**
+- **Navegación por Contenido Relacionado:** La capacidad para navegar por el contenido relacionado es muy pobre y necesita mejoras.
+- **Búsqueda:** La función de búsqueda es inconsistente, difícil de encontrar y no cumple con los objetivos del usuario.
+- **Ayuda y Instrucciones en Formularios:** La provisión de ayuda y instrucciones en los formularios es moderada y puede ser mejorada para una experiencia más fluida.
+- **Contenido y Texto:** La relevancia y adecuación del contenido disponible es moderada y podría mejorarse para cumplir mejor con los objetivos del usuario.
+- **Ayuda en Línea:** La ayuda en línea proporcionada es adecuada, pero puede ser más concisa y fácil de entender.
+- **Performance:** Aunque el rendimiento del sitio es excelente, se recomienda realizar pruebas periódicas para asegurar una experiencia de usuario óptima en todo momento.
+
+En general, el sitio web del CIBM ha demostrado ser funcional y eficiente en muchos aspectos, pero hay margen para mejorar la navegación, la búsqueda, la ayuda en línea y la relevancia del contenido. Se recomienda implementar estas sugerencias de mejora para optimizar aún más la experiencia de usuario y garantizar que el sitio sea accesible y útil para todos sus visitantes.
+
 
 ### 5.	Comparativa con el Instituto de Biomedicina de Sevilla (IBiS)
 o	Comparativa A/B testing entre las webs de CIBM e IBiS con personas ficticias (p4).

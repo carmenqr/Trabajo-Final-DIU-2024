@@ -142,11 +142,16 @@ Este user journey map destaca la necesidad de una comunicación efectiva y oport
 
 Continuando con el análisis de la experiencia de usuario (UX) del sitio web del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/), dejamos de lado temporalmente a nuestros usuarios representativos, [Laura García](parte2/Persona1.png) y [Carlos Martínez](parte2/Persona2.png), para centrarnos en usuarios con otro tipo de necesidades, como aquellos que tienen alguna discapacidad. Es fundamental garantizar que el sitio web del CIBM sea **accesible** y **usable** para todos los usuarios, independientemente de sus capacidades. Para este propósito, se llevará a cabo un **estudio de la accesibilidad del sitio web** utilizando la herramienta Funkify – Disability Simulator, un plugin de Chrome que permite simular diferentes tipos de discapacidades y evaluar cómo afectan la interacción con el sitio web.
 
-En este [informe de evaluación de accesibilidad](parte2/Accesibilidad.pdf) .
+En este [informe de evaluación de accesibilidad](parte2/Accesibilidad.pdf) se ofrece un análisis exhaustivo sobre cómo la página se adapta a usuarios con diferentes discapacidades. El análisis se estructura en dos partes: una evaluación detallada de accesibilidad basada en las pautas WCAG y una simulación de accesibilidad que prueba la usabilidad del sitio bajo diversas condiciones de discapacidad.
 
-o	Análisis de la accesibilidad de la web del CIBM.
+**Evaluación Basada en Pautas WCAG**
+La evaluación reveló que la web cumple en gran medida con las pautas WCAG, destacándose en áreas como la visibilidad de la información de accesibilidad y la adaptabilidad del contenido a diferentes tamaños de letra y resoluciones de pantalla. Sin embargo, se identificaron algunas alertas menores, especialmente en términos de contraste, que podrían mejorar para alcanzar un nivel óptimo de accesibilidad.
 
-o	Resultados del estudio de accesibilidad y recomendaciones.
+**Simulación de Accesibilidad**
+La simulación, que incluyó pruebas con discapacidades como miopía, daltonismo, Parkinson y dislexia, demostró que la web es bastante accesible para usuarios con discapacidades visuales y de color. No obstante, usuarios con discapacidades motoras y cognitivas enfrentan mayores desafíos, particularmente en la interacción con formularios y la lectura del contenido.
+
+En resumen, aunque el CIBM ha avanzado significativamente en la accesibilidad de su web, se recomienda continuar mejorando en áreas críticas para asegurar una experiencia inclusiva para todos los usuarios, especialmente para personas con diferentes discapacidades. Algunas de las propuestas de mejora incluyen la inclusión de alternativas multimedia en lugar de texto para personas con dislexia, así como versiones con botones más grandes y clicables para facilitar la interacción a personas con Parkinson, entre otras.
+
 
 ### 4.	Usabilidad
 o	Evaluación de la usabilidad de la web del CIBM mediante pruebas y cuestionarios.

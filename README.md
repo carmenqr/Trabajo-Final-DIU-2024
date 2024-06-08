@@ -68,7 +68,7 @@ Se diseñó una animación en Figma utilizando el tipo de animación slider para
 #### Conclusiones: 
 Las animaciones pueden mejorar significativamente la experiencia de usuario cuando se utilizan adecuadamente. Es importante balancear la creatividad con la funcionalidad para asegurar que las animaciones no interfieran con la usabilidad.
 
-### Prácticas
+### [Prácticas](https://github.com/carmenqr/DIU)
 Durante la asignatura de Diseño de Interfaces de Usuario, se llevaron a cabo diversas prácticas que permitieron aplicar de manera práctica los conceptos aprendidos en clase. A continuación, se resumen algunas de las prácticas más destacables:
 
   **1. Investigación Inicial y Definición del Proyecto:**

@@ -95,4 +95,37 @@ A lo largo de estas actividades y prácticas, se ha adquirido un profundo conoci
 -	**Accesibilidad:** Comprensión profunda de las normativas de accesibilidad y habilidad para evaluar y mejorar la accesibilidad web.
 -	**Diseño Visual y Creativo:** Competencia en la creación de moodboards y animaciones que reflejen la identidad de la marca y mejoren la experiencia de usuario.
 
-Este informe, presentado de manera objetiva y justificada, demuestra un sólido conocimiento y experiencia en el campo de UI/UX, reflejando un alto grado de competencia en la aplicación de principios de usabilidad y diseño estudiados durante el curso.
+
+## PARTE II
+El presente informe tiene como propósito evaluar y comparar las interfaces y experiencias de usuario de dos centros de investigación: el [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/) de la Universidad de Granada (UGR) y el [Instituto de Biomedicina de Sevilla (IBiS)](https://www.ibis-sevilla.es/es/). A través de este análisis, se pretende demostrar la capacidad de aplicar metodologías de diseño centrado en el usuario (DCU) y técnicas de experiencia de usuario (UX) a casos reales, mejorando así la usabilidad y satisfacción del usuario final.
+Para ello, se ha estructurado el trabajo en varias secciones, comenzando con un análisis detallado del diseño, usabilidad, adaptación a dispositivos y experiencia de usuario del sitio web de CIBM. Posteriormente, se realizará una comparativa con la web de IBiS, evaluando las diferencias y similitudes en términos de diseño y experiencia de usuario. Finalmente, se concluirá con una autoevaluación crítica sobre las prácticas realizadas y las mejoras potenciales en el diseño de interfaces basado en este caso de estudio.
+
+Este informe pretende ser una evaluación objetiva y justificada, utilizando criterios cuantificables y técnicas probadas en el campo del diseño de interfaces y UX, para ofrecer un análisis profesional y detallado.
+
+### 1.	Análisis del Diseño del Centro de Investigación Biomédica (CIBM)
+o	Evaluación del diseño visual y estructura.
+o	Comparativa con estándares y buenas prácticas de diseño web.
+
+### 2.	Adaptación a Dispositivos
+o	Evaluación de la adaptabilidad de la web de CIBM en diferentes dispositivos (móviles, tablets, desktop).
+o	Herramientas y técnicas utilizadas para la evaluación.
+
+### 3.	Experiencia de Usuario (UX)
+o	Creación de personas y escenarios de uso específicos para CIBM.
+o	Análisis de la accesibilidad de la web del CIBM.
+o	Resultados del estudio de accesibilidad y recomendaciones.
+
+### 4.	Usabilidad
+o	Evaluación de la usabilidad de la web del CIBM mediante pruebas y cuestionarios.
+o	Análisis de los resultados y sugerencias de mejora.
+
+### 5.	Comparativa con el Instituto de Biomedicina de Sevilla (IBiS)
+o	Comparativa A/B testing entre las webs de CIBM e IBiS con personas ficticias (p4).
+o	Puntos fuertes y débiles de cada web en términos de diseño, usabilidad y UX (SUS).
+o	Conclusiones derivadas del análisis comparativo.
+
+### 6.	Autoevaluación y Conclusiones
+o	Reflexión sobre la aplicación de técnicas y metodologías aprendidas durante las prácticas.
+o	Análisis de lo que se ha aplicado en este estudio y lo que podría haberse mejorado.
+o	Conclusión general del trabajo realizado y aprendizajes adquiridos.
+

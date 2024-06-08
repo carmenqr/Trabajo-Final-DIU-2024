@@ -113,8 +113,13 @@ El análisis se ha centrado en varios aspectos cruciales:
 El resultado de este análisis puede consultarse en el documento [AnalisisDiseñoCIBM.pdf](parte2/AnalisisDiseñoCIBM.pdf).
 
 ### 2.	Adaptación a Dispositivos
-o	Evaluación de la adaptabilidad de la web de CIBM en diferentes dispositivos (móviles, tablets, desktop).
-o	Herramientas y técnicas utilizadas para la evaluación.
+Para evaluar la adaptabilidad del sitio web del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/) en diferentes dispositivos, se ha utilizado la herramienta [Google Chrome DevTools](https://developer.chrome.com/docs/devtools?hl=es-419). Esta herramienta, disponible de forma gratuita e integrada en el navegador Google Chrome, permite simular diversos dispositivos y ajustar el tamaño de la ventana del navegador para verificar la adaptabilidad del diseño.
+
+Tras realizar pruebas exhaustivas utilizando [Google Chrome DevTools](https://developer.chrome.com/docs/devtools?hl=es-419), se ha observado que el sitio web del CIBM se adapta de manera eficaz a una variedad de dispositivos. El diseño responde de manera óptima a cambios en el tamaño de la pantalla, lo que garantiza una experiencia de usuario consistente y satisfactoria en dispositivos móviles, tablets y desktops.
+
+La navegación y la usabilidad del sitio se mantienen coherentes en todos los dispositivos probados, lo que indica una implementación exitosa del diseño responsive. No se han detectado problemas significativos de visualización en ninguno de los dispositivos evaluados, lo que confirma la adaptabilidad efectiva del sitio web del CIBM.
+
+Además, como parte del proceso de evaluación utilizando [Google Chrome DevTools](https://developer.chrome.com/docs/devtools?hl=es-419), se han generado capturas de pantalla que muestran cómo se ve la pantalla de inicio del sitio web del CIBM en diferentes dispositivos. Estas capturas proporcionan una representación visual de la adaptabilidad efectiva del diseño en una variedad de tamaños de pantalla y dispositivos. Las capturas se encuentran disponibles en la carpeta [AdaptacionDispositivos](parte2/adaptacionDispositivos/), lo que brinda una referencia visual adicional para respaldar los hallazgos del análisis de adaptabilidad del sitio web del CIBM.
 
 ### 3.	Experiencia de Usuario (UX)
 o	Creación de personas y escenarios de uso específicos para CIBM.

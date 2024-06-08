@@ -15,8 +15,11 @@ El siguiente informe está estructurado para proporcionar una visión integral d
 El análisis etnográfico es una técnica fundamental en UX para comprender el comportamiento de los usuarios en su entorno natural. En esta actividad, se observó a una mujer de mediana edad utilizando un sistema de autopago en un hipermercado. La observación se llevó a cabo de manera casual y directa, lo que permitió identificar varios problemas críticos de usabilidad.
 
 #### Observaciones y resultados:
+
 **-	Falta de información clara:** La interfaz del sistema de autopago no indicaba de manera explícita que los artículos debían permanecer en el espacio lateral hasta finalizar la compra. Esta falta de claridad causó que la usuaria experimentara frustraciones repetidas al bloquearse el sistema cada vez que movía un artículo.
+
 **-	Dependencia del personal:** La usuaria tuvo que recurrir varias veces a la encargada para desbloquear el sistema, lo que contradecía el objetivo de autopago rápido y eficiente.
+
 **-	Experiencia de usuario negativa:** La frustración y la sensación de inutilidad del sistema fueron evidentes, lo que sugiere que el diseño no consideró adecuadamente la facilidad de uso para usuarios novatos.
 
 #### Conclusiones:

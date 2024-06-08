@@ -140,6 +140,10 @@ El viaje de Carlos comienza con la ***toma de conciencia*** a través de una pub
 
 Este user journey map destaca la necesidad de una comunicación efectiva y oportuna entre los investigadores y los usuarios del sitio web. Un sistema de contacto eficiente y una presentación clara de la información son esenciales para satisfacer las necesidades de profesionales como Carlos, que buscan inspiración y colaboración en el campo de la investigación biomédica.
 
+Continuando con el análisis de la experiencia de usuario (UX) del sitio web del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/), dejamos de lado temporalmente a nuestros usuarios representativos, [Laura García](parte2/Persona1.png) y [Carlos Martínez](parte2/Persona2.png), para centrarnos en usuarios con otro tipo de necesidades, como aquellos que tienen alguna discapacidad. Es fundamental garantizar que el sitio web del CIBM sea **accesible** y **usable** para todos los usuarios, independientemente de sus capacidades. Para este propósito, se llevará a cabo un **estudio de la accesibilidad del sitio web** utilizando la herramienta Funkify – Disability Simulator, un plugin de Chrome que permite simular diferentes tipos de discapacidades y evaluar cómo afectan la interacción con el sitio web.
+
+En este [informe de evaluación de accesibilidad](parte2/Accesibilidad.pdf) .
+
 o	Análisis de la accesibilidad de la web del CIBM.
 
 o	Resultados del estudio de accesibilidad y recomendaciones.

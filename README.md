@@ -154,7 +154,9 @@ En resumen, aunque el CIBM ha avanzado significativamente en la accesibilidad de
 
 
 ### 4.	Usabilidad
-o	Evaluación de la usabilidad de la web del CIBM mediante pruebas y cuestionarios.
+La usabilidad es un aspecto crucial en el diseño y funcionamiento de cualquier sitio web, ya que determina la facilidad con la que los usuarios pueden interactuar con la plataforma y alcanzar sus objetivos. En la evaluación actual del sitio web del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/), se ha llevado a cabo una evaluación exhaustiva mediante un [cuestionario de usabilidad](parte2/Usabilidad.pdf).
+
+El cuestionario abarca diversos aspectos clave de la usabilidad, como la facilidad de navegación, la claridad de la información presentada, la accesibilidad de las funcionalidades y la eficiencia con la que los usuarios pueden completar tareas específicas. Este enfoque permite identificar puntos fuertes y áreas que requieren mejoras desde una perspectiva profesional y fundamentada.
 
 o	Análisis de los resultados y sugerencias de mejora.
 

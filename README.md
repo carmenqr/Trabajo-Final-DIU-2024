@@ -124,13 +124,21 @@ Además, como parte del proceso de evaluación utilizando [Google Chrome DevTool
 ### 3.	Experiencia de Usuario (UX)
 En el proceso de análisis de la experiencia de usuario (UX) del sitio web del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/), es fundamental considerar a los usuarios potenciales que interactuarán con la plataforma. Dos de estos usuarios representativos son [Laura García](parte2/Persona1.png) y [Carlos Martínez](parte2/Persona2.png).
 
+Para entender mejor las interacciones y necesidades de estos usuarios, se ha realizado un User Journey Map para cada uno. El User Journey Map es una herramienta que permite visualizar y analizar el recorrido que realiza un usuario al interactuar con el sitio web. Este mapa ayuda a identificar los puntos de contacto, pensamientos, emociones, acciones y posibles problemas que los usuarios pueden experimentar durante su interacción con la plataforma. Al realizar estos mapas, se busca mejorar la experiencia de usuario, identificar oportunidades de optimización y asegurar que el diseño del sitio web cumpla con las expectativas y necesidades de sus usuarios.
+
 [Laura García](parte2/Persona1.png), profesora de secundaria, busca recursos educativos en el CIBM para enriquecer sus clases. Su interés radica en encontrar información relevante y actualizada que pueda utilizar para despertar la curiosidad científica de sus alumnos y mejorar su comprensión de la biomedicina. Desde el punto de vista del factor humano, Laura destaca por su compromiso con la educación y su deseo de proporcionar una experiencia de aprendizaje significativa para sus estudiantes.
+
+[User Journey Map de Laura García](parte2/User_Journey_Map_1.png):
+El viaje de Laura comienza con la ***toma de conciencia*** en una conferencia educativa donde escucha hablar del CIBM. En la fase de ***inspiración***, Laura explora el sitio web del CIBM y descubre una sección dedicada a recursos educativos. En la fase de ***decisión***, Laura revisa los recursos disponibles y selecciona un video sobre investigación biomédica para su próxima clase. Durante la fase de ***acción***, Laura descarga el video y prepara una lección basada en el contenido proporcionado. En la fase de ***observación***, Laura nota que sus alumnos responden positivamente al material. Finalmente, en la ***conclusión***, Laura está satisfecha con la calidad de los recursos y planea utilizar más contenido del CIBM en el futuro.
+
+Este user journey map ilustra la importancia de un sitio web intuitivo y bien organizado que permita a los educadores como Laura acceder fácilmente a materiales educativos de alta calidad. El diseño debe facilitar la navegación y la búsqueda de recursos relevantes para mejorar la experiencia de aprendizaje de sus alumnos.
 
 Por otro lado, [Carlos Martínez](parte2/Persona2.png), ingeniero informático, busca inspiración tecnológica en la investigación biomédica del CIBM. Su objetivo es explorar posibles aplicaciones tecnológicas en el campo de la salud y la biomedicina, utilizando la investigación del CIBM como fuente de ideas e innovaciones. Carlos se destaca por su pasión por la innovación y su capacidad para buscar soluciones tecnológicas avanzadas.
 
-o	Creación de personas y escenarios de uso específicos para CIBM.
+[User Journey Map de Carlos Martínez](parte2/User_Journey_Map_2.png):
+El viaje de Carlos comienza con la ***toma de conciencia*** a través de una publicación en línea sobre el CIBM. En la fase de ***inspiración***, Carlos explora el sitio web del CIBM y descubre proyectos de investigación innovadores. En la fase de ***decisión***, Carlos decide contactar al CIBM para obtener más información sobre un proyecto específico. Durante la fase de ***acción***, Carlos completa un formulario de contacto y envía sus preguntas sobre el proyecto. En la fase de ***observación***, Carlos encuentra el proceso de contacto claro y directo, aunque experimenta cierta ansiedad mientras espera una respuesta. Finalmente, en la ***conclusión***, Carlos valora la calidad de los proyectos y considera colaborar con el CIBM en el futuro.
 
-o Preguntas como: ¿Quién es el usuario de esas páginas? ¿qué buscan/necesitan? ¿Qué puntos fuertes puedes destacar desde el punto de vista del factor humano?¿Se ha aplicado bien el diseño para mejorar la experiencia de usuario?
+Este user journey map destaca la necesidad de una comunicación efectiva y oportuna entre los investigadores y los usuarios del sitio web. Un sistema de contacto eficiente y una presentación clara de la información son esenciales para satisfacer las necesidades de profesionales como Carlos, que buscan inspiración y colaboración en el campo de la investigación biomédica.
 
 o	Análisis de la accesibilidad de la web del CIBM.
 

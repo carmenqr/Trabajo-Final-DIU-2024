@@ -103,8 +103,14 @@ Para ello, se ha estructurado el trabajo en varias secciones, comenzando con un 
 Este informe pretende ser una evaluación objetiva y justificada, utilizando criterios cuantificables y técnicas probadas en el campo del diseño de interfaces y UX, para ofrecer un análisis profesional y detallado.
 
 ### 1.	Análisis del Diseño del Centro de Investigación Biomédica (CIBM)
-o	Evaluación del diseño visual y estructura.
-o	Comparativa con estándares y buenas prácticas de diseño web.
+En el proceso de análisis del diseño web del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/), he empleado la técnica de Web Checklist para evaluar de manera exhaustiva diversos aspectos relacionados con la estructura y el diseño visual de la página. Este enfoque se ha utilizado con el objetivo de realizar una evaluación detallada y objetiva del sitio web, así como de compararlo con estándares y buenas prácticas reconocidas en el campo del diseño web.
+
+El análisis se ha centrado en varios aspectos cruciales:
+- **Evaluación del Diseño Visual y Estructura:** Se ha examinado el equilibrio, la simetría y la regularidad del diseño visual, así como la claridad y la utilidad de la estructura del sitio web. Se han identificado áreas de mejora, como la falta de simetría en el menú y la carencia de filtros en la navegación por contenido relacionado.
+- **Comparativa con Estándares y Buenas Prácticas:** Se ha llevado a cabo una comparativa minuciosa del diseño del CIBM con estándares y buenas prácticas ampliamente aceptadas en el ámbito del diseño web. Se ha destacado la claridad y la sencillez de la navegación primaria y secundaria, así como la presencia de elementos como breadcrumbs y un footer, que son considerados como elementos fundamentales según los estándares de diseño.
+- **Identificación de Puntos Críticos y Áreas de Mejora:** Se ha identificado la búsqueda sin filtro como un punto crítico que podría afectar la eficiencia del sitio web. Se ha recomendado la implementación de filtros en la navegación por contenido relacionado para mejorar la experiencia del usuario.
+
+El resultado de este análisis puede consultarse en el documento [AnalisisDiseñoCIBM.pdf](parte2/AnalisisDiseñoCIBM.pdf).
 
 ### 2.	Adaptación a Dispositivos
 o	Evaluación de la adaptabilidad de la web de CIBM en diferentes dispositivos (móviles, tablets, desktop).

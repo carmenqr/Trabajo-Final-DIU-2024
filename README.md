@@ -201,11 +201,24 @@ En este estudio, se ha aplicado el [Cuestionario SUS](parte2/SUS.pdf) a estos cu
 
 **Fernando** encuentra el sitio del **IBiS** utilizable, aunque algo complejo debido a su menor experiencia en TIC. Esto sugiere que ambos sitios podrían beneficiarse de mejorar la accesibilidad y simplificar la navegación para usuarios con menor experiencia tecnológica.
 
-o	Comparativa A/B testing entre las webs de CIBM e IBiS con personas ficticias (p4).
+En resumen, los resultados del cuestionario SUS muestran que, aunque el CIBM tiene una buena usabilidad percibida por usuarios con experiencia alta y media, hay áreas de mejora significativas para usuarios con menor experiencia tecnológica. El IBiS, aunque también tiene fortalezas, presenta oportunidades para mejorar en términos de complejidad y consistencia percibida por usuarios de experiencia media y baja.
 
-o	Puntos fuertes y débiles de cada web en términos de diseño, usabilidad y UX (SUS).
+**Conclusiones derivadas del análisis comparativo:**
 
-o	Conclusiones derivadas del análisis comparativo.
+- **Consistencia y Facilidad de Uso:** El CIBM ha sido valorado positivamente en términos de integración de funciones y facilidad de uso, especialmente por usuarios con alta experiencia TIC. Sin embargo, se han identificado áreas de inconsistencia que podrían mejorarse.
+- **Complejidad y Necesidad de Soporte:** Usuarios con menor experiencia TIC, como Fernando, han encontrado IBiS moderadamente complejo y han expresado la necesidad de soporte adicional. Esto sugiere la necesidad de simplificar la navegación y mejorar la orientación del usuario.
+- **Accesibilidad y Orientación:** Cecilia ha valorado mejor el IBiS en términos de accesibilidad, lo que indica que el CIBM podría beneficiarse de mejoras en este aspecto para hacer su sitio más inclusivo para todos los niveles de experiencia tecnológica.
+  
+**Propuestas de Mejora para el CIBM:**
+
+- **Mejorar la Consistencia del Diseño:** Asegurar que todos los elementos del sitio web mantengan un diseño coherente para facilitar la navegación y uso por parte de todos los usuarios.
+- **Orientación al Usuario:** Incluir guías y tutoriales que ayuden a los usuarios a navegar por el sitio, especialmente aquellos con menor experiencia tecnológica.
+- **Simplificación de la Navegación:** Reducir la complejidad del menú y proporcionar múltiples formas de acceso a la información, como búsquedas avanzadas y categorización clara.
+- **Accesibilidad:** Mejorar las características de accesibilidad, como textos alternativos para imágenes, teclas de acceso rápido y mejor compatibilidad con lectores de pantalla.
+- **Feedback y Soporte:** Implementar un sistema de feedback y soporte en tiempo real para ayudar a los usuarios a resolver problemas rápidamente y mejorar la satisfacción general.
+
+Estas mejoras ayudarán a que el CIBM no solo mantenga su alta usabilidad para usuarios expertos como Julia, sino que también mejore la accesibilidad y facilidad de uso para usuarios menos experimentados, como Mario y Fernando, y se acerque a la accesibilidad y estructura que Cecilia encuentra útil en el IBiS.
+
 
 ### 6.	Mi propuesta + mockup
 

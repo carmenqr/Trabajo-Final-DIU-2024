@@ -267,6 +267,27 @@ A lo largo del curso de Diseño de Interfaces de Usuario (DIU), se ha adquirido 
 La experiencia adquirida en el curso de Diseño de Interfaces de Usuario ha sido integral y transformadora, proporcionando una base sólida en la aplicación de técnicas y metodologías de UX y usabilidad. Cada actividad y práctica ha contribuido a desarrollar habilidades críticas, desde la observación y análisis de comportamientos de usuario hasta la creación de interfaces visualmente atractivas y accesibles. Esta reflexión subraya la importancia de un enfoque centrado en el usuario en el diseño de interfaces, asegurando que sean intuitivas, inclusivas y efectivas en satisfacer las necesidades de todos los usuarios. La capacidad de aplicar estas técnicas y metodologías de manera experta será fundamental para el desarrollo continuo en el campo del diseño de interfaces de usuario.
 
 #### Análisis de lo que se ha aplicado en este estudio y lo que podría haberse mejorado.
+El análisis realizado en este estudio demuestra un enfoque sólido y exhaustivo para evaluar la usabilidad y la experiencia del usuario en los sitios web del Centro de Investigación Biomédica (CIBM) y el Instituto de Biomedicina de Sevilla (IBiS). A través de diversas técnicas y metodologías, se han identificado tanto puntos fuertes como áreas de mejora en ambos sitios, brindando así una visión integral de su desempeño desde la perspectiva del usuario.
+
+**Lo que se ha aplicado efectivamente en este estudio:**
+
+- **Metodologías de Evaluación:** Se ha empleado una variedad de metodologías de evaluación, como la Web Checklist, simulaciones de accesibilidad y cuestionarios de usabilidad, para obtener una comprensión completa de la experiencia del usuario en ambos sitios. Esta diversidad de enfoques proporciona una evaluación más completa y precisa de la usabilidad y accesibilidad de los sitios web.
+
+- **Personalización del Enfoque:** Se ha tenido en cuenta una variedad de perfiles de usuarios representativos, desde usuarios con alta experiencia en tecnología hasta aquellos con menor experiencia, para evaluar la usabilidad de los sitios desde diferentes perspectivas. Esta personalización del enfoque permite identificar necesidades y problemas específicos de diferentes segmentos de usuarios, lo que ayuda a desarrollar soluciones más efectivas y centradas en el usuario.
+
+- **Comparativa A/B Testing:** Se ha realizado una comparativa detallada entre los dos sitios web, utilizando el método A/B testing con usuarios ficticios y el cuestionario SUS. Esta comparativa proporciona una visión clara de las fortalezas y debilidades de cada sitio en relación con la usabilidad percibida por los usuarios.
+
+- **Propuestas de Mejora Fundamentadas**: Se han propuesto mejoras específicas para cada sitio web, basadas en los hallazgos del análisis comparativo. Estas propuestas están respaldadas por los resultados de la evaluación y están dirigidas a abordar áreas específicas de mejora en términos de diseño, accesibilidad y usabilidad.
+
+**Lo que podría haberse mejorado en este estudio:**
+
+- **Inclusión de Pruebas de Usuario Reales:** Aunque se utilizaron usuarios ficticios para el cuestionario SUS y el A/B testing, la inclusión de pruebas con usuarios reales habría proporcionado una validación adicional de los hallazgos y habría asegurado una evaluación más precisa de la experiencia del usuario.
+
+- **Consideración de Factores Contextuales:** Si bien se evaluó la usabilidad de los sitios web en términos generales, no se tuvieron en cuenta factores contextuales específicos, como el contexto de uso o las tareas específicas que los usuarios podrían realizar en los sitios. La consideración de estos factores habría enriquecido aún más la evaluación y proporcionado insights adicionales sobre la experiencia del usuario.
+
+- **Evaluación Continua y Seguimiento**: Aunque se identificaron áreas de mejora y se propusieron soluciones, sería beneficioso realizar una evaluación continua y un seguimiento de las mejoras implementadas en los sitios web para garantizar que se aborden adecuadamente los problemas identificados y se mejore constantemente la experiencia del usuario a lo largo del tiempo.
+
+En resumen, este estudio ha aplicado de manera efectiva una variedad de técnicas y metodologías para evaluar la usabilidad y la experiencia del usuario en los sitios web del CIBM y el IBiS. Sin embargo, hay oportunidades para mejorar la inclusión de pruebas con usuarios reales, considerar factores contextuales específicos y realizar un seguimiento continuo de las mejoras implementadas para garantizar una experiencia óptima del usuario a largo plazo.
 
 #### Conclusión general del trabajo realizado y aprendizajes adquiridos.
 

@@ -180,6 +180,10 @@ En general, el sitio web del CIBM ha demostrado ser funcional y eficiente en muc
 
 
 ### 5.	Comparativa con el Instituto de Biomedicina de Sevilla (IBiS)
+En este apartado, se realiza una comparativa **A/B testing** entre las webs del[Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/) y el [Instituto de Biomedicina de Sevilla (IBiS)](https://www.ibis-sevilla.es/es/). Para ello, se emplean personas ficticias que representan a distintos tipos de usuarios. Estas personas interactúan con ambas webs y completan un **cuestionario SUS (System Usability Scale)** para evaluar la usabilidad de cada sitio. Las conclusiones derivadas de este análisis comparativo proporcionan una visión detallada de las fortalezas y áreas de mejora de cada web desde la perspectiva del usuario.
+
+A continuación, se presentan las cuatro personas ficticias utilizadas para este análisis, con sus respectivas características:
+
 o	Comparativa A/B testing entre las webs de CIBM e IBiS con personas ficticias (p4).
 
 o	Puntos fuertes y débiles de cada web en términos de diseño, usabilidad y UX (SUS).

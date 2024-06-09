@@ -190,7 +190,16 @@ A continuación, se presentan las cuatro personas ficticias utilizadas para este
 | Cecilia     | M/42      | Enfermera   | Media                 | Tablet    | Búsqueda de información sobre protocolos clínicos y formación continua      | B    | 75        |
 | Fernando | H/59      |  Administrador de Hospital  | Baja           | Desktop    |  Información institucional y contacto con organismos de investigación           | B    | 60        |
 
-Estas personas ficticias representan una variedad de perfiles y necesidades, permitiendo una evaluación completa y detallada de la usabilidad y eficacia de las webs del CIBM e IBiS desde diferentes perspectivas.
+En este estudio, se ha aplicado el [Cuestionario SUS](parte2/SUS.pdf) a estos cuatro usuarios con distintos perfiles y niveles de experiencia tecnológica para comparar la usabilidad de las webs del [Centro de Investigación Biomédica (CIBM)](https://cibm.ugr.es/) y del [Instituto de Biomedicina de Sevilla (IBiS)](https://www.ibis-sevilla.es/es/). Los resultados obtenidos proporcionan una visión integral de las fortalezas y debilidades de cada sitio web desde la perspectiva del usuario.
+
+**Conclusiones:**
+**Julia** encuentra el sitio web del **CIBM** fácil de usar y bien integrado, con una alta probabilidad de volver a visitarlo. Sin embargo, podría beneficiarse de una mayor consistencia en el diseño.
+
+**Mario** considera que el sitio del **CIBM** es moderadamente fácil de usar, pero nota que podría necesitar soporte adicional en algunos casos, sugiriendo mejoras en la orientación del usuario.
+
+**Cecilia** encuentra el sitio del **IBiS** bastante accesible y bien estructurado, pero ve la posibilidad de mejoras en la claridad y consistencia de la navegación.
+
+**Fernando** encuentra el sitio del **IBiS** utilizable, aunque algo complejo debido a su menor experiencia en TIC. Esto sugiere que ambos sitios podrían beneficiarse de mejorar la accesibilidad y simplificar la navegación para usuarios con menor experiencia tecnológica.
 
 o	Comparativa A/B testing entre las webs de CIBM e IBiS con personas ficticias (p4).
 

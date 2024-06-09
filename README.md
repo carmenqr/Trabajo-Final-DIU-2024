@@ -219,10 +219,7 @@ En resumen, los resultados del cuestionario SUS muestran que, aunque el CIBM tie
 
 Estas mejoras ayudarán a que el CIBM no solo mantenga su alta usabilidad para usuarios expertos como Julia, sino que también mejore la accesibilidad y facilidad de uso para usuarios menos experimentados, como Mario y Fernando, y se acerque a la accesibilidad y estructura que Cecilia encuentra útil en el IBiS.
 
-
-### 6.	Mi propuesta + mockup
-
-### 7.	Autoevaluación y Conclusiones
+### 6.	Autoevaluación y Conclusiones
 o	Reflexión sobre la aplicación de técnicas y metodologías aprendidas durante las prácticas.
 
 o	Análisis de lo que se ha aplicado en este estudio y lo que podría haberse mejorado.

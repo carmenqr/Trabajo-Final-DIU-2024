@@ -185,10 +185,10 @@ En este apartado, se realiza una comparativa **A/B testing** entre las webs del 
 A continuación, se presentan las cuatro personas ficticias utilizadas para este análisis, con sus respectivas características:
 | Usuario  | Sexo/edad | Ocupación  | Experiencia internet | Plataforma | Perfil cubierto | Test | SUS score |
 |----------|-----------|------------|----------------------|------------|-----------------|------|-----------|
-| Julia    | M/34      | Profesora universitaria | Alta                 | Desktop        |  Búsqueda de recursos educativos y materiales de investigación        | A    | 90        |
-| Mario     | H/28      | Investigador Biomédico   | Media                 | Laptop    | Acceso a publicaciones científicas y contacto con otros investigadores     | A    | 67,5      |
-| Cecilia     | M/42      | Enfermera   | Media                 | Tablet    | Búsqueda de información sobre protocolos clínicos y formación continua      | B    | 85        |
-| Fernando | H/59      |  Administrador de Hospital  | Baja           | Desktop    |  Información institucional y contacto con organismos de investigación           | B    | 65        |
+| Julia    | M/34      | Profesora universitaria | Alta                 | Desktop        |  Búsqueda de recursos educativos y materiales de investigación        | A    | 82,5        |
+| Mario     | H/28      | Investigador Biomédico   | Media                 | Laptop    | Acceso a publicaciones científicas y contacto con otros investigadores     | A    | 55      |
+| Cecilia     | M/42      | Enfermera   | Media                 | Tablet    | Búsqueda de información sobre protocolos clínicos y formación continua      | B    | 75        |
+| Fernando | H/59      |  Administrador de Hospital  | Baja           | Desktop    |  Información institucional y contacto con organismos de investigación           | B    | 60        |
 
 Estas personas ficticias representan una variedad de perfiles y necesidades, permitiendo una evaluación completa y detallada de la usabilidad y eficacia de las webs del CIBM e IBiS desde diferentes perspectivas.
 

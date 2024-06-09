@@ -220,9 +220,53 @@ En resumen, los resultados del cuestionario SUS muestran que, aunque el CIBM tie
 Estas mejoras ayudarán a que el CIBM no solo mantenga su alta usabilidad para usuarios expertos como Julia, sino que también mejore la accesibilidad y facilidad de uso para usuarios menos experimentados, como Mario y Fernando, y se acerque a la accesibilidad y estructura que Cecilia encuentra útil en el IBiS.
 
 ### 6.	Autoevaluación y Conclusiones
-o	Reflexión sobre la aplicación de técnicas y metodologías aprendidas durante las prácticas.
+#### Reflexión sobre la aplicación de técnicas y metodologías aprendidas durante las prácticas
 
-o	Análisis de lo que se ha aplicado en este estudio y lo que podría haberse mejorado.
+**Reflexión General**
 
-o	Conclusión general del trabajo realizado y aprendizajes adquiridos.
+A lo largo del curso de Diseño de Interfaces de Usuario (DIU), se ha adquirido una profunda comprensión y habilidad en la aplicación de técnicas y metodologías esenciales en el campo de la Experiencia de Usuario (UX) y la Usabilidad. Este proceso no solo ha permitido el desarrollo de competencias técnicas, sino que también ha fomentado una reflexión crítica sobre la importancia de diseñar interfaces que sean intuitivas, accesibles y visualmente atractivas. A continuación, se presenta una reflexión experta sobre la aplicación de las técnicas y metodologías aprendidas durante el curso.
+
+**Análisis Etnográfico**
+
+**Técnicas Aplicadas:** Observación directa, análisis de comportamiento del usuario, identificación de problemas de usabilidad.
+
+**Reflexión:** La técnica de análisis etnográfico permitió una inmersión directa en el entorno de uso del usuario, proporcionando insights valiosos sobre cómo interactúan con sistemas de autopago en un entorno real. La observación directa de una mujer de mediana edad usando el sistema reveló deficiencias críticas en la interfaz, como la falta de instrucciones claras y la excesiva dependencia del personal. Este ejercicio destacó la importancia de diseñar interfaces intuitivas que reduzcan la carga cognitiva del usuario y minimicen la necesidad de asistencia externa. La experiencia adquirida en esta actividad refuerza la necesidad de realizar estudios etnográficos como parte integral del proceso de diseño centrado en el usuario (DCU).
+
+**Evaluación del Diseño de una Web**
+
+**Técnicas Aplicadas:** Checklist de evaluación de UX, análisis comparativo, revisión de principios de diseño visual.
+
+**Reflexión:** Evaluar el diseño de la web "Galería Granada Capital" a través de una checklist estructurada permitió una identificación sistemática de áreas de mejora. La técnica de evaluación basada en principios de UX y diseño visual reveló deficiencias en la navegación, accesibilidad y contenido del sitio. Este análisis subrayó la importancia de una navegación clara y un wayfinding efectivo, así como la necesidad de cumplir con los estándares de accesibilidad. La capacidad de realizar evaluaciones críticas y proponer mejoras concretas es esencial para asegurar que las interfaces proporcionen una experiencia de usuario satisfactoria y efectiva.
+
+**Análisis de Accesibilidad**
+
+**Técnicas Aplicadas:** Herramientas automáticas de verificación de accesibilidad, simuladores de discapacidad, evaluación basada en WCAG.
+
+**Reflexión:** La evaluación exhaustiva de la accesibilidad de la web del Ayuntamiento de Armilla utilizando herramientas automáticas y simuladores de discapacidad proporcionó una comprensión profunda de los desafíos que enfrentan los usuarios con discapacidades. Identificar errores de WCAG y experimentar directamente las dificultades a través de simulaciones de miopía, daltonismo, Parkinson y dislexia, resaltó la importancia de diseñar interfaces inclusivas. Este ejercicio enfatizó la responsabilidad de los diseñadores de interfaces de garantizar que todos los usuarios, independientemente de sus capacidades, puedan acceder y usar las interfaces de manera efectiva. La comprensión y aplicación de normativas de accesibilidad es crucial para promover la inclusión digital.
+
+**Moodboard**
+
+**Técnicas Aplicadas:** Creación de moodboards, selección de paletas de colores, tipografías, diseño de logotipos y slogans.
+
+**Reflexión:** La creación de un moodboard para una web inventada permitió explorar y definir la identidad visual de una marca. Este ejercicio destacó la importancia de la coherencia visual y la alineación estética en la creación de interfaces de usuario. La selección cuidadosa de colores, tipografías y elementos visuales es esencial para transmitir los valores de la marca y mejorar la experiencia de usuario. La habilidad para crear moodboards efectivos es fundamental para asegurar que todos los elementos visuales estén alineados con la identidad de la marca, proporcionando una experiencia cohesiva y memorable para el usuario.
+
+**Creación de una Web Creativa**
+
+**Técnicas Aplicadas:** Prototipado en Figma, diseño de animaciones, interactividad y usabilidad.
+
+**Reflexión:** Diseñar una animación en Figma utilizando el tipo de animación slider para una web de joyería fue una experiencia valiosa en la integración de elementos interactivos y visualmente atractivos en una interfaz de usuario. La interactividad añadida mejoró la dinámica y el atractivo de la experiencia, sin comprometer la usabilidad. Este ejercicio subrayó la importancia de balancear la creatividad con la funcionalidad, asegurando que las animaciones complementen la navegación y no interfieran con la usabilidad. La capacidad de diseñar interfaces que sean tanto funcionales como estéticamente agradables es crucial para proporcionar experiencias de usuario superiores.
+
+**Prácticas**
+
+**Técnicas Aplicadas:** Investigación de usuarios, creación de personas y escenarios, prototipado, pruebas de usabilidad, iteración, etc.
+
+**Reflexión:** Las prácticas realizadas durante el curso, incluyendo la investigación de usuarios, la creación de prototipos y las pruebas de usabilidad, consolidaron la importancia del enfoque centrado en el usuario. La investigación inicial y la definición de proyectos permitieron identificar problemas y objetivos claros de diseño. El prototipado y la evaluación continua aseguraron que los diseños fueran iterativos y mejoraran con base en el feedback de los usuarios. Este enfoque iterativo es esencial para desarrollar interfaces que realmente respondan a las necesidades y expectativas de los usuarios, asegurando su satisfacción y eficiencia.
+
+**Conclusión**
+
+La experiencia adquirida en el curso de Diseño de Interfaces de Usuario ha sido integral y transformadora, proporcionando una base sólida en la aplicación de técnicas y metodologías de UX y usabilidad. Cada actividad y práctica ha contribuido a desarrollar habilidades críticas, desde la observación y análisis de comportamientos de usuario hasta la creación de interfaces visualmente atractivas y accesibles. Esta reflexión subraya la importancia de un enfoque centrado en el usuario en el diseño de interfaces, asegurando que sean intuitivas, inclusivas y efectivas en satisfacer las necesidades de todos los usuarios. La capacidad de aplicar estas técnicas y metodologías de manera experta será fundamental para el desarrollo continuo en el campo del diseño de interfaces de usuario.
+
+#### Análisis de lo que se ha aplicado en este estudio y lo que podría haberse mejorado.
+
+#### Conclusión general del trabajo realizado y aprendizajes adquiridos.
 
